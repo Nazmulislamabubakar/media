@@ -1,0 +1,301 @@
+/*most of the galixy fold*/
+@media (min-width: 279px ) and (max-width: 319px) {
+  body { background-color: blue; } 
+ .col-6 {
+    width: 100%;
+    float: left;
+ }   .container{
+	width: 100%;
+	margin: 0px auto;
+}
+.col-6 {
+    width: 100%;
+    float: left;
+}
+.col-4{
+	width: 100%;
+	float: left;
+}
+.header .logo{
+	display: block;
+	text-align: center;
+}
+.nav-menu{
+text-align: center;
+}
+.nav-menu li a {
+font-size:10px;	
+}
+.banner{
+padding:30px 0px ;
+}
+.banner h1{
+font-size: 25px;
+line-height: 1.2em;	
+}
+.banner p{
+font-size: 10px;
+line-height: 1.7;	
+}
+.banner p{
+	width: 80%;
+}
+.successfully{
+	width: 100%;
+	padding: 80px 0px 280px;
+}
+.left-text{
+	text-align: center;	
+}
+.left-text h1{
+	font-size: 25px;
+	line-height: 1.2em;
+	margin: 0px 0px 0px 180px;
+}
+.left-text p{
+	font-size: 10px;
+	line-height: 1.7em;
+	margin: 0px 0px 0px 18px;
+}
+.right-text h1{
+	font-size: 25px;
+	line-height: 1.2em;
+}
+.feature{
+padding:0px 0px 18px ;	
+}
+.inner-feature{
+	width: 60%;
+	margin: 0px 15px 15px;
+}
+
+/* 
+  ##Device = Most of the Smartphones Mobiles (Portrait)
+  ##Screen = B/w 320px to 479px
+*/
+
+@media (min-width: 320px) and (max-width: 480px) {
+  
+  /* CSS */
+.container{
+	width: 100%;
+	margin: 0px auto;
+}
+.col-6 {
+    width: 100%;
+    float: left;
+}
+.col-4{
+	width: 100%;
+	float: left;
+}
+.header .logo{
+	display: block;
+	text-align: center;
+}
+.nav-menu{
+text-align: center;
+}
+.nav-menu li a {
+font-size: 12px;	
+}
+.banner{
+padding:40px 0px ;
+}
+.banner h1{
+font-size: 28px;
+line-height: 1.2em;	
+}
+.banner p{
+font-size: 12px;
+line-height: 1.7;	
+}
+.banner p{
+	width: 80%;
+}
+.successfully{
+	width: 100%;
+	padding: 10px 0px 30px;
+}
+.left-text{
+	text-align: center;	
+}
+.left-text h1{
+	font-size: 28px;
+	line-height: 1.2em;
+	margin: 0px 0px 0px 20px;
+}
+.left-text p{
+	font-size: 12px;
+	line-height: 1.7em;
+	margin: 0px 0px 0px 20px;
+}
+.right-text h1{
+	font-size: 28px;
+	line-height: 1.2em;
+}
+.feature{
+padding:0px 0px 20px ;	
+}
+.inner-feature{
+	margin: 0px 15px 15px;
+}
+
+
+
+
+  /* CSS */
+
+
+}
+/* 
+  ##Device = Low Resolution Tablets, Mobiles (Landscape)
+  ##Screen = B/w 481px to 767px
+*/
+
+@media (min-width: 481px) and (max-width: 767px) {
+  
+  /* CSS */
+.container{
+	width: 100%;
+	margin: 0px auto;
+}
+.col-6 {
+    width: 100%;
+    float: left;
+}
+.col-4{
+	width: 100%;
+	float: left;
+}
+.header .logo{
+	display: block;
+	text-align: center;
+}
+.nav-menu{
+text-align: center;
+}
+.nav-menu li a {
+font-size: 13px;	
+}
+.banner{
+padding:50px 0px ;
+}
+.banner h1{
+font-size: 30px;
+line-height: 1.2em;	
+}
+.banner p{
+font-size: 13px;
+line-height: 1.7;	
+}
+.banner p{
+	width: 80%;
+}
+.successfully{
+	width: 100%;
+	padding: 10px 0px 40px;
+}
+.left-text{
+	text-align: center;	
+}
+.left-text h1{
+	font-size: 30px;
+	line-height: 1.2em;
+	margin: 0px 0px 0px 20px;
+}
+.left-text p{
+	font-size: 13px;
+	line-height: 1.7em;
+	margin: 0px 0px 0px 20px;
+}
+.right-text h1{
+	font-size: 30px;
+	line-height: 1.2em;
+}
+.feature{
+padding:0px 0px 30px ;	
+}
+.inner-feature{
+	margin: 0px 15px 15px;
+}
+
+
+
+  /* CSS */ 
+}
+/* 
+  ##Device = Tablets, Ipads nootpade (portrait)
+  ##Screen = B/w 768px to 1024px
+*/
+
+@media (min-width: 768px) and (max-width: 1024px) {
+  
+  /* CSS */
+	.container{
+			width: 90%;
+			margin: 0px auto;
+		}
+		.col-4{
+	width: 100%;
+	float: left;
+}
+.col-6 {
+    width: 100%;
+    float: left;
+}
+.header .logo{
+	display: block;
+	text-align: center;
+}
+.nav-menu{
+text-align: center;
+}
+.nav-menu li a {
+font-size: 12px;	
+}
+.banner{
+padding:50px 0px ;
+}
+.banner h1{
+font-size: 30px;
+line-height: 1.2em;	
+}
+.banner p{
+font-size: 12px;
+line-height: 1.7;	
+}
+.banner p{
+	width: 80%;
+}
+.successfully{
+	width: 100%;
+	padding: 10px 0px 40px;
+}
+.left-text{
+	text-align: center;	
+}
+.left-text h1{
+	font-size: 30px;
+	line-height: 1.2em;
+	margin: 0px 0px 0px 20px;
+}
+.left-text p{
+	font-size: 13px;
+	line-height: 1.7em;
+	margin: 0px 0px 0px 20px;
+}
+.right-text h1{
+	font-size: 30px;
+	line-height: 1.2em;
+}
+.feature{
+padding:0px 0px 30px ;	
+}
+.inner-feature{
+	margin: 0px 15px 15px;
+}
+
+
+  /* CSS */ 
+}
